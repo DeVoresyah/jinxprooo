@@ -24,6 +24,7 @@ config: {
  }
 ```
 `config.name` for website name
+
 `config.description` for website description
 
 ## License
