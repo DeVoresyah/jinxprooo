@@ -13,6 +13,7 @@ Please use the following setting for your blog
 * In _**Meta tags**_ section, fill the `Description`
 * And the last one, go to **Theme**
 * In _**Mobile**_ section, follow this setting
+
 ![Mobile Theme Setting](https://i.imgur.com/rdQMgnG.png)
 
 ## Config::Template
